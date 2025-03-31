@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨🏻‍💻 Vini Catharino
 
-<!--
-**ViniCatharino/ViniCatharino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Desktop FrontEnd`**
 
-Here are some ideas to get you started:
+Me chamo Vinicius Catharino, tenho 20 anos e sou de Tupã-SP. Atualmente, estou cursando Ciência da Computação na Univem. Sou apaixonado por tecnologia e estou a procura da minha primeira vaga como dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="DELPHI"
+    title="DELPHI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" 
+/>
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;"             
+    src= "https://www.svgrepo.com/show/303251/mysql-logo.svg"
+/>
+
+<br/>
+<br/>
+
+
+</p>
+
