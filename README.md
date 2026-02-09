@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Desktop FrontEnd`**
 
-Me chamo Vinicius Catharino, tenho 20 anos e sou de Tupã-SP. Atualmente, estou cursando Ciência da Computação na Univem. Sou apaixonado por tecnologia e estou a procura da minha primeira vaga como dev.
+Me chamo Vinicius Catharino, tenho 20 anos e sou de Tupã-SP. Atualmente, estou cursando Ciência da Computação na Univem. Atualmente trabalho como Desenvolvedor |Delphi-SQLServer|.
 
 ---
 
